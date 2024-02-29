@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 <link rel="stylesheet" type="text/css" href="Read me.css" />
 
 <h1>ようこそ車航空技術研究部へ！</h1>
@@ -47,3 +49,4 @@
 
 <a href="https://discord.com/channels/1209843805243703366/1209846369842630666">＃参考資料関係</a>
 <p>このチャンネルでは工作機械の使い方や注意点などの情報を扱っています。初めて使う工作機械はここで予習をしておくのをオススメします。</p>
+</html>

@@ -1,5 +1,4 @@
 <html>
-<title>車航空技術研究部ーチャンネルガイド</title>
   <head>
    <meta charset="utf-8">
    <link rel="stylesheet" type="text/css" href="Read me.css" />

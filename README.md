@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="Read me.css" />
+
 <h1>ようこそ車航空技術研究部へ！</h1>
 <h3>ここでは各チャンネルの役割と使い方を説明しています。</h3>
 

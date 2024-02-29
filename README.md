@@ -2,7 +2,7 @@
   <head>
    <meta charset="utf-8">
    <link rel="stylesheet" type="text/css" href="Read me.css" />
-   <title>車航空技術研究部　チャンネルガイド</title>
+   <title>車航空技術研究部ーチャンネルガイド</title>
   </head>
   <body>
    <h1>ようこそ車航空技術研究部へ！</h1>

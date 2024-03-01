@@ -1,15 +1,10 @@
 .header{
-  background-color:#cc1427;
+  background-color:#e5171f;
   height:90px;
 }
 
 .main{
-  background-color:#ee7b1a;
-}
-
-.footer{
-  background-color:#cc1427
-  height:45px;
+  background-color:#ffddbc;
 }
 
 h1{

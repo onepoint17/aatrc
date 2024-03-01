@@ -1,9 +1,18 @@
 .header{
-  background-color:#522886;
+  background-color:#cc1427;
+  height:90px;
+}
+
+.main{
+  background-color:#ee7b1a;
+}
+
+.footer{
+  background-color:#cc1427
+  height:45px;
 }
 
 h1{
-  background-color:#cc1427;
   font-size:10px;
   color:white;
 }

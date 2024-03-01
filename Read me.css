@@ -2,13 +2,20 @@
   background-color:#e5171f;
 }
 
-.main{
+.administrative{
   background-color:#ffddbc;
+}
+
+.production{
+  background-color:adffad;
+}
+
+.others{
+  background-color:#bcddff;
 }
 
 h1{
   font-size:12px;
-  font-family:cursive
   color:white;
 }
 
